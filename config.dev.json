@@ -107,7 +107,7 @@
   },
   "hideNotiMessage": {
     "wrongCommand": false,
-    "adminOnly": true,
+    "adminOnly": false,
     "threadBanned": false,
     "userBanned": false,
     "needRoleToUseCmdOnReply": false,
