@@ -17,10 +17,10 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "", "61559946582981"],
+    "100072164227356", "61559946582981"],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61559946582981","100072164227356"],
+    "whiteListIds": ["61559946582981",""],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": " 𝒀𝒐𝒖𝒓 𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🐇",
@@ -107,7 +107,7 @@
   },
   "hideNotiMessage": {
     "wrongCommand": false,
-    "adminOnly": false,
+    "adminOnly": true,
     "threadBanned": false,
     "userBanned": false,
     "needRoleToUseCmdOnReply": false,
